@@ -2,8 +2,9 @@
 This repository contains the solutions for all the Wargames. (Updating constantly)
 
 ### [Bandit](https://overthewire.org/wargames/bandit/) Solutions
-Level| Commands Used | Description   |
+Level| Commands Used | Description   | Password
  --- |---| ---|
+0| - | Read description | bandit0
 1| |        
 2|
 3|
