@@ -2,6 +2,12 @@
 This repository contains the solutions for all the Wargames. (Updating constantly)
 
 ### [Bandit](https://overthewire.org/wargames/bandit/) Solutions
+Level| Commands Used | Description   |
+ --- |---| ---|
+1| |        
+2|
+3|
+
 ### Natas Solutions
 ### Leviathan Solutions
 ### Krypton Solutions
