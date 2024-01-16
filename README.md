@@ -1,7 +1,7 @@
 # OverTheWire Wargames
 This repository contains the solutions for all the Wargames. (Updating constantly)
 
-### Bandit Solutions
+### [Bandit](https://overthewire.org/wargames/bandit/) Solutions
 ### Natas Solutions
 ### Leviathan Solutions
 ### Krypton Solutions
