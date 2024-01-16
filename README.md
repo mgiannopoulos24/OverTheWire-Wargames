@@ -4,7 +4,7 @@ This repository contains the solutions for all the Wargames. (Updating constantl
 ### [Bandit](https://overthewire.org/wargames/bandit/) Solutions
 Level| Commands Used | Description   | Password
  --- |---| ---| -----
-0| - | Read description | bandit0
+0| ssh bandit0@bandit.labs.overthewire.org -p 2220 | Read description | bandit0
 1| |        
 2|
 3|
