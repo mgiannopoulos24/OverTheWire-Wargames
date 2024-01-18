@@ -8,7 +8,7 @@ This repository contains the solutions for all the Wargames. (Updating constantl
   - First way: Use the cat command to read the file using the backslash key ("\") to escape every space.
   - Second way: Use the cat command to read the file using the quotes (" ") to wrap the whole filename.
 4. Level 3. Use the ls command to list all the contents of bandit3 and use the cd (change directory) command to access the directory named inhere. Then use ls -la or ll to see the contents of the inhere directory. Finally use the cat command followed by the .hidden file to read it.
-1. Level 4.Use the ls command to list all the contents of bandit4 and use the cd (change directory) command to access the directory named inhere. Then use ls -la or ll to see the contents of the inhere directory. As you can see there are 10 files in here. Since we need to find the one that is human-readable you have to use the file command followed by ./-file* which will return the data type of each file. After that you can see that the file "-file07" has ASCII text. Finally use the cat command followed by ./-file07 and to read it.
+1. Level 4. Use the ls command to list all the contents of bandit4 and use the cd (change directory) command to access the directory named inhere. Then use ls -la or ll to see the contents of the inhere directory. As you can see there are 10 files in here. Since we need to find the one that is human-readable you have to use the file command followed by ./-file* which will return the data type of each file. After that you can see that the file "-file07" has ASCII text. Finally use the cat command followed by ./-file07 and to read it.
 1. Level 5.
 1. Level 6.
 1. Level 7.
