@@ -2,14 +2,14 @@
 This repository contains the solutions for all the Wargames. (Updating constantly)
 
 ### [Bandit](https://overthewire.org/wargames/bandit/) Solutions
-* Level 0. Use the cat command to read the readme file.
-* Level 1. Use the cat command to read the - (dashed) file.
-* Level 2. There are two ways to solve this level:
+1. Level 0. Use the cat command to read the readme file.
+1. Level 1. Use the cat command to read the - (dashed) file.
+1. Level 2. There are two ways to solve this level:
 -The first way is to use the cat command to read the file using the backslash key ("\") to escape every space.
 -The second way is to use the cat command to read the file using the quotes (" ") to wrap the whole filename. 
-* Level 3.
-* Level 4.
-* Level 5.
+1. Level 3.
+1. Level 4.
+1. Level 5.
 * Level 6.
 * Level 7.
 * Level 8.
