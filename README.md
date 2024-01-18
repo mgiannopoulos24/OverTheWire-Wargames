@@ -5,8 +5,8 @@ This repository contains the solutions for all the Wargames. (Updating constantl
 * Level 0. Use the cat command to read the readme file.
 * Level 1. Use the cat command to read the - (dashed) file.
 * Level 2. There are two ways to solve this:
-⋅⋅⋅The first way is to use the cat command to read the file using the backslash key ("\") to escape every space.
-⋅⋅⋅The second way is to use the cat command to read the file using the quotes (" ") to wrap the whole filename. 
+ The first way is to use the cat command to read the file using the backslash key ("\") to escape every space.
+   The second way is to use the cat command to read the file using the quotes (" ") to wrap the whole filename. 
 * Level 3.
 * Level 4.
 * Level 5.
