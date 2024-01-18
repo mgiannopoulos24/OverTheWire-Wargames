@@ -7,13 +7,13 @@ This repository contains the solutions for all the Wargames. (Updating constantl
 1. Level 2. There are two ways to solve this level:
   - First way: Use the cat command to read the file using the backslash key ("\") to escape every space.
   - Second way: Use the cat command to read the file using the quotes (" ") to wrap the whole filename.
-1. Level 3.
+1. Level 3. In this level use the ls command to list all the contents of bandit3 and use the cd (change directory) command to access the directory named inhere. Then use ls -la or ll to see the contents of the inhere directory. Finally use the cat command followed by the .hidden file to read it.
 1. Level 4.
 1. Level 5.
-* Level 6.
-* Level 7.
-* Level 8.
-* Level 9.
+1. Level 6.
+1. Level 7.
+1. Level 8.
+1. Level 9.
 * Level 10.
 * Level 11.
 * Level 12.
