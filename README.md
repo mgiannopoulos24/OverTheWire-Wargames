@@ -3,28 +3,17 @@ This repository contains the solutions for all the Wargames. (Updating constantl
 
 Try the wargames yourself!
 
-[Bandit](https://overthewire.org/wargames/bandit/) 
+1.[Bandit](https://overthewire.org/wargames/bandit/) 
+2.[Natas](https://overthewire.org/wargames/natas/)
+3.[Leviathan](https://overthewire.org/wargames/leviathan/)
+4.[Krypton](https://overthewire.org/wargames/krypton/)
+5.[Narnia](https://overthewire.org/wargames/narnia/) 
+6.[Behemoth](https://overthewire.org/wargames/behemoth/) 
+7.[Utumno](https://overthewire.org/wargames/utumno/) 
+8.[Maze](https://overthewire.org/wargames/maze/) 
+9.[Vortex](https://overthewire.org/wargames/vortex/)  
+10.[Manpage](https://overthewire.org/wargames/manpage/)  
+11.[Drifter](https://overthewire.org/wargames/drifter/)  
+12.[FormulaOne](https://overthewire.org/wargames/formulaone/)  
 
-[Natas](https://overthewire.org/wargames/natas/)
-
-[Leviathan](https://overthewire.org/wargames/leviathan/)
-
-[Krypton](https://overthewire.org/wargames/krypton/)
-
-[Narnia](https://overthewire.org/wargames/narnia/) 
-
-[Behemoth](https://overthewire.org/wargames/behemoth/) 
-
-[Utumno](https://overthewire.org/wargames/utumno/) 
-
-[Maze](https://overthewire.org/wargames/maze/) 
-
-[Vortex](https://overthewire.org/wargames/vortex/)  
-
-[Manpage](https://overthewire.org/wargames/manpage/)  
-
-[Drifter](https://overthewire.org/wargames/drifter/)  
-
-[FormulaOne](https://overthewire.org/wargames/formulaone/)  
-
-[Their Discord](https://discord.gg/CPDYM3G)
+[![](https://dcbadge.vercel.app/api/server/INVITEID)](https://discord.gg/634870139476770816)
