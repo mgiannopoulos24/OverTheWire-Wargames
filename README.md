@@ -27,3 +27,4 @@ Try the wargames yourself!
 
 [FormulaOne](https://overthewire.org/wargames/formulaone/)  
 
+[Their Discord](https://discord.gg/CPDYM3G)
