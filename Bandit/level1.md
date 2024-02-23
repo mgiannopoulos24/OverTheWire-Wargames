@@ -1,0 +1,1 @@
+Use the `cat` command to read the `-` (dashed) file.

@@ -1,0 +1,1 @@
+Use the `ls` command to list all the contents of `bandit3` and use the `cd` (change directory) command to access the directory named `inhere`. Then use `ls -la` or `ll` to see the contents of the `inhere` directory. Finally use the `cat` command followed by the `.hidden` file to read it.
