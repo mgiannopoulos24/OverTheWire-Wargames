@@ -16,4 +16,4 @@ Try the wargames yourself!
 11. [Drifter](https://overthewire.org/wargames/drifter/)  
 12. [FormulaOne](https://overthewire.org/wargames/formulaone/)  
 
-[![](https://dcbadge.vercel.app/api/server/634870139476770816)](https://discord.gg/634870139476770816)
+[![](https://dcbadge.vercel.app/api/server/CPDYM3G)](https://discord.gg/CPDYM3G)
